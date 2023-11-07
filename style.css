@@ -27,7 +27,7 @@ body {
   }
 
   .register-btn:hover {
-    background-color: rgb(93, 200, 93);
+    background-color: rgb(75, 124, 75);
   }
 
   input, select, textarea {
@@ -42,7 +42,7 @@ body {
 
 
   footer {
-    background-color: rgb(39, 11, 11);
+    background-color: rgb(10, 1, 1);
     padding: 2em;
     color: white;
 
@@ -62,10 +62,10 @@ body {
   }
 
   th {
-    border: 1px solid rgb(189, 188, 188);
+    border: 1px solid rgb(147, 128, 128);
     padding: 0.5em;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
     color: white;
   }
 
